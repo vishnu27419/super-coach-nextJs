@@ -36,10 +36,10 @@ function Footer() {
                         // src="assets/images/newsletter_icon.png"
                         src="/assets/images/newsletter_icon.png"
                         alt="no_image"
-                        width={20}
-                        height={20}
+                        width={40}
+                        height={40}
                       />{" "}
-                      <span>Newsletter</span>
+                      <p>Newsletter</p>
                     </a>
                   </li>
                   <li>
@@ -47,10 +47,10 @@ function Footer() {
                       <Image
                         src="/assets/images/fb_icon.png"
                         alt=""
-                        width={20}
-                        height={20}
+                        width={40}
+                        height={40}
                       />{" "}
-                      <span>Facebook</span>
+                      <p>Facebook</p>
                     </a>
                   </li>
                   <li>
@@ -58,10 +58,10 @@ function Footer() {
                       <Image
                         src="/assets/images/twitter_icon.png"
                         alt=""
-                        width={20}
-                        height={20}
+                        width={40}
+                        height={40}
                       />{" "}
-                      <span>Twitter</span>
+                      <p>Twitter</p>
                     </a>
                   </li>
                   <li>
@@ -69,10 +69,10 @@ function Footer() {
                       <Image
                         src="/assets/images/insta_icon.png"
                         alt=""
-                        width={20}
-                        height={20}
+                        width={40}
+                        height={40}
                       />{" "}
-                      <span>Instagram</span>
+                      <p>Instagram</p>
                     </a>
                   </li>
                 </ul>
